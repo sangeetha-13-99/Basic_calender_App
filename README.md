@@ -1,4 +1,4 @@
-# Js_basics_Learning
+# Basic_calender_App
 
 This is Basic Calender App it is created as part of learning Vanilla Javascript.
 
